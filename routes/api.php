@@ -18,6 +18,15 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
 });
 
-Route::get('response', function () {
+Route::get('/website-reviews', function () {
     return response()->file(app_path('../' . 'responses.json'));
 });
+
+Route::get('/agents', function (){
+        return response()->file(app_path('../' . 'agents.json'));
+});
+
+Route::get('/posts', function (){
+    return response()->file(app_path('../' . 'posts.json'));
+});
+
