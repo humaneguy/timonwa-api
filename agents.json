@@ -1,0 +1,58 @@
+{
+    "agents": [
+        {
+            "id": 1,
+            "name": "Peculiar Ekom",
+            "email": "pekom@gmail.com",
+            "adverts": [
+                "01-01-10020201345",
+                "01-02-250720211257",
+                "01-03-250720211415"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Bolatito Coker",
+            "email": "cokervibes@yahoo.com",
+            "adverts": [
+                "02-01-100220200530",
+                "02-02-010320211221",
+                "02-03-3004202111240"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Babatunde Oladipupo",
+            "email": "babatunde@gmail.com",
+            "adverts": [
+                "03-01-210320210630",
+                "03-02-210320210635",
+                "03-03-210320210640"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Jide Sanwolu",
+            "email": "sanwoluJ@gmail.com",
+            "adverts": [
+                "04-01-210320211203"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Bode Bankole",
+            "email": "bbankonle@gmail.com",
+            "adverts": [
+                "05-01-020420212304"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Solomon Ndubuisi",
+            "email": "solomonndubuisi@gmail.com",
+            "adverts": [
+                "06-01-070820211415"
+            ]
+        }
+    ]
+}
